@@ -6,7 +6,7 @@ I'm Ripudaman Singh😉, technology consultant 👨🏻‍💻 from Hong Kong. I
 
 ### How to reach me: 
 <a href="mailto: rds0751@hotmail.com">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/rds0751/">   <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/rds0751/"><img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.wosumo.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-rds0751%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/rds0751/">   <img src="https://img.shields.io/badge/@rds0751_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/rds0751/"><img src="https://img.shields.io/badge/rds0751-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.wosumo.com/"><img src="https://img.shields.io/badge/wosumo.com-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
