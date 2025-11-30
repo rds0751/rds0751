@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Ripudaman Singh😉, Software Engineer 👨🏻‍💻 from Delhi. I'm in open-source profession and mostly develop in Python 🐍.
+I'm Anil Kumar😉, Software Engineer 👨🏻‍💻 from Delhi. I'm in open-source profession and mostly develop in Python 🐍.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
 
