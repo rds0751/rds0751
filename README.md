@@ -2,7 +2,7 @@
 
 I'm Anil Kumar😉, Software Engineer 👨🏻‍💻 from Delhi. I'm in open-source profession and mostly develop in Python 🐍.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+7%2B+Years+Experience;Passionate+about+Blockchain+AI)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: rds0751@hotmail.com">
